@@ -9,7 +9,7 @@
 |jobs|작업이 중지된 상태나 백그라운드로 진행 중인 상태를 표시하는 리눅스 명령어|
 |kill|프로세스에 종료 시그널을 보내는 리눅스 명령어(-9는 강제 종료)|
 
-- ps 명령어 사용 예시
+- ps 명령어 사용 예시(이미지 파일)
 
 <img src = "https://user-images.githubusercontent.com/104217126/171991912-ac36a91e-0dd7-477c-b120-d11cfc4e7757.png" width ="1000" height = "100" >
 
